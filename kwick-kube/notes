@@ -1,3 +1,6 @@
 # to start project outside of go path:
 go mod init <pjt_name>
 # then make sure your main.go has `package main` on line 1
+
+# You'll want to run the script on the node via ssh, something like
+# ssh -i ~/.ssh/key.pem ubuntu@10.10.2.20 'sudo bash -s' < kwick-kube

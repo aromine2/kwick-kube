@@ -1,0 +1,4 @@
+github.com/google/pprof v0.0.0-20190109223431-e84dfd68c163/go.mod h1:zfwlbNMJ+OItoe0UupaVj+oy1omPYYDuagoSzA8v9mc=
+github.com/ngtrimble/executil v0.0.0-20190403053746-9ec139aa6d36 h1:8Zi5sSc7dU9lc5jLh8QykXsFuNqBr6SKK6tf8Z6CqpY=
+github.com/ngtrimble/executil v0.0.0-20190403053746-9ec139aa6d36/go.mod h1:VE9ANFOgynHvD0NPKtG+/4fZbvze5p/i26n2cnR+wd8=
+golang.org/x/arch v0.0.0-20181203225421-5a4828bb7045/go.mod h1:cYlCBUl1MsqxdiKgmc4uh7TxZfWSFLOGSRR090WDxt8=
