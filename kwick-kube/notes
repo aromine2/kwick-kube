@@ -1,0 +1,3 @@
+# to start project outside of go path:
+go mod init <pjt_name>
+# then make sure your main.go has `package main` on line 1

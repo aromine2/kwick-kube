@@ -1,4 +1,4 @@
-package kwick_kube
+package main
 
 import (
 	"fmt"
